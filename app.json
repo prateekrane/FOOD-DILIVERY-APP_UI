@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/order.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.pratee_k7.foodDilivery"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "37b218b7-0156-4564-a9fb-bb9aee6fb531"
+      }
     }
   }
 }
